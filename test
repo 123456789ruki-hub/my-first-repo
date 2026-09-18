@@ -1,1 +1,6 @@
+git add .
+git commit -m "這是我的第一次提交"
+git push origin main
+
+
 
